@@ -16,10 +16,10 @@ Clone repo https://github.com/rphadol/MovieTrailerWebsite to local computer
 
 cd to repo directory 
 
-Run entertainment_center.py
+Run entertainment_center.py by using following command:
 
-C:\Full Stack Dev\MovieTrailerWebsite>python entertainment_center.py
+"Python entertainment_center.py"
 
-Website will open in browser and there you can see lists of movies with their trailers.
+Check your browser for Website, you can see lists of movies with their trailers.
 
 
