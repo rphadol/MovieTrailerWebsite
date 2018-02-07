@@ -1,15 +1,14 @@
 # Movie Trailer Website
-Description :
+### Description:
+Movie trailer website is a project to store your favorite movies, including movie title, and a  movie trailer.
 
-Languages :
+### Languages :Python
 
-Main files :
-
-
-
+### Main files :entertainment_center.py, media.py,fresh_tomatoes.py
 
 
-Steps to run Project:
+
+### Steps to run Project:
 
 Clone repo https://github.com/rphadol/MovieTrailerWebsite to local computer
 
@@ -19,4 +18,5 @@ Run entertainment_center.py
 
 C:\Full Stack Dev\MovieTrailerWebsite>python entertainment_center.py
 
-Website will open in browser
+Website will open in browser with following image.
+
